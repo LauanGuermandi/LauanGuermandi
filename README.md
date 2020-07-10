@@ -11,3 +11,4 @@ My name is Lauan and I'm Fullstack developer.
  - 💙 In love with PHP, Python and JavaScript
  - 🌱 Currently learning Machine learning with Python
  - 😄 Fullstack Developer 
+ - 💘 DevOps enthusiast	
