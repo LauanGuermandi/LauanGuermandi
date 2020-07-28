@@ -12,3 +12,5 @@ My name is Lauan and I'm Fullstack developer.
  - 🌱 Currently learning Machine learning with Python
  - 😄 Fullstack Developer 
  - 💘 DevOps enthusiast	
+ 
+ ![](https://komarev.com/ghpvc/?username=lauanguermandi&color=blue)
