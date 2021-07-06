@@ -9,7 +9,7 @@
 
 My name is Lauan and I'm Fullstack developer.
 
- - 💙 In love with PHP, Python, C# and JavaScript
+ - 💙 In love with C#, Python, PHP and JavaScript
  - 🌱 Currently learning CQRS and Event Sourcing
  - 😄 Fullstack Developer 
  - 💘 DevOps enthusiast	
