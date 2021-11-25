@@ -10,7 +10,7 @@
 My name is Lauan and I'm Fullstack developer.
 
  - 💙 In love with C#, Python, PHP and JavaScript
- - 🌱 Currently learning Microsservices and Hexagonal Architecture
+ - 🌱 Currently learning Microservices and Hexagonal Architecture
  - 😄 Fullstack Developer 
  - 💘 DevOps enthusiast	
 
