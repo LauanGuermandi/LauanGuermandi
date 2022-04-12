@@ -9,9 +9,9 @@
 
 My name is Lauan and I'm Fullstack developer.
 
- - 💙 In love with C#, Python, PHP and JavaScript
+ - 💙 In love with DotNET
  - 🌱 Currently learning Microservices and Hexagonal Architecture
- - 😄 Fullstack Developer 
+ - 😄 Software Architect and Fullstack Developer 
  - 💘 DevOps enthusiast	
 
 ![Lauan GitHub stats](https://github-readme-stats.vercel.app/api?username=LauanGuermandi&show_icons=true&theme=tokyonight)
