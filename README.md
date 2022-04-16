@@ -7,7 +7,7 @@
  
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Lauan and I'm Fullstack developer.
+My name is Lauan and I'm Software Architect.
 
  - 💙 In love with DotNET
  - 🌱 Currently learning Microservices and Hexagonal Architecture
