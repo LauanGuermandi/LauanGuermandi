@@ -14,5 +14,3 @@ My name is Lauan and I'm Software Architect.
  - 😄 Software Architect and Fullstack Developer 
  - 💘 DevOps enthusiast	
 
-![Lauan GitHub stats](https://github-readme-stats.vercel.app/api?username=LauanGuermandi&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauanGuermandi&layout=compact&theme=tokyonight)](https://github.com/LauanGuermandi)
