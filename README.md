@@ -10,7 +10,7 @@
 My name is Lauan and I'm Software Architect.
 
  - 💙 In love with .NET 7
- - 🌱 Currently learning Microservices and Hexagonal Architecture
+ - 🌱 Currently functional programming with F#
  - 😄 Software Architect and Fullstack Developer 
  - 💘 DevOps enthusiast	
 
