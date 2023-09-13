@@ -9,7 +9,7 @@
 
 My name is Lauan and I'm Software Architect.
 
- - 💙 In love with .NET 7
+ - 💙 In love with .NET 8
  - 🌱 Currently learning functional programming with F#
  - 😄 Software Architect and Fullstack Developer 
  - ☁️ Microsoft Azure Certified
