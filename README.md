@@ -12,6 +12,6 @@ My name is Lauan and I'm Software Architect.
  - 💙 In love with .NET 9
  - 🌱 Currently learning functional programming with F#
  - 😄 Software Architect and Software Engineer 
- - ☁️ Microsoft Azure Certified
+ - ☁️ 2x Microsoft Azure Certified
  - 💘 DevOps enthusiast	
 
