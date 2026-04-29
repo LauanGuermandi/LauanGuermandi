@@ -13,5 +13,6 @@ My name is Lauan and I'm Software Architect.
  - 🌱 Currently learning Machine Learning
  - 😄 Software Architect and Software Engineer 
  - ☁️ 2x Microsoft Azure Certified
+ - 🤖 1x GitHub Copilot Certified
  - 💘 Cloud enthusiast	
 
