@@ -9,7 +9,6 @@
 
 My name is Lauan and I'm Software Architect.
 
- - 💙 In love with .NET 10
  - 🌱 Currently learning Machine Learning
  - 😄 Software Architect and Software Engineer 
  - ☁️ 2x Microsoft Azure Certified
